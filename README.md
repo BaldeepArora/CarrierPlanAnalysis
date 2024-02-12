@@ -1,7 +1,7 @@
 # CarrierPlanAnalysis
 
 ### Objective
-To understand the importance of customer relationship, customer details and accoutn type with the Telecommunication company that is pitching them a new carrier plan.
+To understand the importance of customer relationship, customer details and account type with the Telecommunication company that is pitching them a new carrier plan.
 
 ### Problem Statement
 1. To classify customers into accepting or rejecting a Carrier Plan based on customer attributes.
